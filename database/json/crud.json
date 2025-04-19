@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "hasti",
+        "email" : "hastidankhara@gmail.com",
+        "city" : "bhavnagar",
+        "age" : 22
+    },
+    {
+        "name" : "saurabh",
+        "email" : "saurabhandani@gmail.com",
+        "city" : "jamnagar",
+        "age" : 22
+    },
+    {
+        "name" : "ravi",
+        "email" : "raviitaliya@gmail.com",
+        "city" : "amreli",
+        "age" : 24
+    },
+    {
+        "name" : "dipali",
+        "email" : "dipalikotadiya@gmail.com",
+        "city" : "amreli",
+        "age" : 23
+    },
+    {
+        "name" : "sweety",
+        "email" : "sweetyjasoliya@gmail.com",
+        "city" : "ambaji",
+        "age" : 26
+    }
+]
